@@ -3,10 +3,11 @@
 **A list of image CS reconstruction approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
 **If your paper about [[Deep Learning-based CS]](https://github.com/mdcnn/CS-Survey) is not listed among them, please contact us (leejun@tyust.edu.cn).**
-
-# The List of Available Summary for CS 
-   * Deep-Compressed-Sensing[[Summary by Wenxue Cui]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
-   * Reproducible-Deep-Compressive-Sensing[[Summary by Thuong Nguyen]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
+# 
+### The list of exiting summary for CS 
+   * Deep-Compressed-Sensing[[Summarized by Wenxue Cui]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
+   * Reproducible-Deep-Compressive-Sensing[[Summarized by Thuong Nguyen]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
+###
 
 | Acronym                                    |        I                                   |   E                                           |       T                                    | S                                          |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------:    | :----------------------------------------: | :----------------------------------------: |
