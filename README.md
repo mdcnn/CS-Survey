@@ -6,7 +6,7 @@
 
 | Acronym                                    |        I                                   |      T                                     |       E                                    |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
-| Type(Deep Learning)                        | Inexplicable CS reconstruction                | Transformer-based CS reconstruction        | Explainable CS reconstruction            |
+| Type(Deep Learning)                        | Inexplicable CS reconstruction                | Transformer based CS reconstruction        | Explainable CS reconstruction            |
 
 
 
