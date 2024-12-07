@@ -45,6 +45,13 @@
 |2021-12-03  | [Image compressed sensing using non-local neural network](https://ieeexplore.ieee.org/abstract/document/9635679)            |Cui, Wenxue and Liu, Shaohui and Jiang, Feng and Zhao, Debin         |IEEE Transactions on Multimedia   |  I   |     [GitHub](https://github.com/WenxueCui/NL-CSNet-Pytorch)      |
 
 
+### 2020 Year
+
+|Time        | Title                                                                 | Author |Journal/Conference   | Type                                           |                             Code                             |
+|:----------:| :-------------------------------------------------------------------: | :----:  | :----:  | :---------------:  | :------------------------------------------------------------------: |
+|2020-11-17  | [Learning memory augmented cascading network for compressed sensing of images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670511.pdf)            |Chen, Jiwei and Sun, Yubao and Liu, Qingshan and Huang, Rui         |European Conference on Computer Vision   |  C   |     [GitHub]( https://github.com/DFLyan/MAC-Net)      |
+
+
 ### 2019 Year
 
 |Time        | Title                                                                 | Author |Journal/Conference   | Type                                           |                             Code                             |
