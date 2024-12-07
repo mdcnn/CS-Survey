@@ -1,9 +1,12 @@
 # CS-Survey (Updating 2024.12)
 
-**Our Survey Paper Title: A Survey on Image Compressive Sensing: From Classical Theory to The Latest Explicable Deep Learning (Authors: Zhao, Lijun and Zhang, Yufeng and Wang, Xinlu and Zhang, Jinjing and Bai, Huihui and Wang, Anhong).**
+***Paper Title: A Survey on Image Compressive Sensing: From Classical Theory to The Latest Explicable Deep Learning.**
 
-**A list of image CS reconstruction approaches and the summary of some available codes or projects.**
+***Authors: Zhao, Lijun and Zhang, Yufeng and Wang, Xinlu and Zhang, Jinjing and Bai, Huihui and Wang, Anhong.**
+
+***A list of image CS reconstruction approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
+
 **If your paper about [[Deep Learning-based CS]](https://github.com/mdcnn/CS-Survey) is not listed among them, please contact us (leejun@tyust.edu.cn).**
 
 
