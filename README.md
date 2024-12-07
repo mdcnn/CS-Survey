@@ -4,9 +4,9 @@
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
 **If your paper about [[Deep Learning-based CS]](https://github.com/mdcnn/CS-Survey) is not listed among them, please contact us (leejun@tyust.edu.cn).**
 
-| Acronym                                    |        I                                   |      T                                     |       E                                    |
+| Acronym                                    |        I                                   |   E                                        |       T                                    |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
-| Type(Deep Learning)                        | Inexplicable CS reconstruction                | Transformer based CS reconstruction        | Explainable CS reconstruction            |
+| Type (Deep Learning)                        | Inexplicable CS reconstruction            | Explainable CS reconstruction              |       Transformer based CS reconstruction  |
 
 
 
