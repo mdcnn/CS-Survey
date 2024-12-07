@@ -154,7 +154,7 @@
 |2016-12-12  | [ReconNet: Non-iterative reconstruction of images from compressively sensed measurements](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf)            |Kulkarni, Kuldeep and Lohit, Suhas and Turaga, Pavan and Kerviche, Ronan and Ashok, Amit         |Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition   |  I   |     [GitHub](https://github.com/KuldeepKulkarni/ReconNet)      |
 
 # 
-### The list of exiting summary for CS 
+### The list of existing summary for deep compressed sensing 
    * Deep-Compressed-Sensing[[Summarized by Wenxue Cui]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
    * Reproducible-Deep-Compressive-Sensing[[Summarized by Thuong Nguyen]](https://github.com/WenxueCui/Deep-Compressed-Sensing)
 #
