@@ -1,4 +1,4 @@
-# CS-Survey (Updating 2024.12)
+# CS-Survey (2024.12)
 
 ***Paper Title: A Survey on Image Compressive Sensing: From Classical Theory to The Latest Explicable Deep Learning.**
 
